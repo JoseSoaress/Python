@@ -1,0 +1,10 @@
+To run the script for the Kinect first we need to inicialize the kinect with freenect-glview
+
+You could use vtk which has python bindings to just display. Code snippet
+
+If you want to process your data with numpy etc. I recommend the following steps:
+
+  1  Convert .ply to .pcd (ascii) : pcl_ply2pcd input.ply output.pcd -format 0
+  2  Use pypcd which is a python module for reading and writing .pcd files
+  3  Pypcd returns a numpy ndarray which can be used perfectly with matplotlib
+
