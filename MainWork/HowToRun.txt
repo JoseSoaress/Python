@@ -1,0 +1,9 @@
+2 Optical FLow networks used: Flownet2 and LiteFLowNet
+
+FlowNet2 as more light weight networks and this work was made in a laptop so it is the principal network.
+
+To run de script for WebCam in the Laptop u have some projects. (Web)
+
+To run the script for the Kinect first we need to inicialize the kinect with    freenect-glview
+
+It is necessary to run the set-env before running the networks of OpticalFlow
