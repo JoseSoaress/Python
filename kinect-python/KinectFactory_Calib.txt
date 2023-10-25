@@ -1,0 +1,20 @@
+Downloading factory calibration data for Kinect A00366820987045A...
+Depth conversion formula: dist[mm] = 345489 / (1089.41 - depth)
+
+Depth unprojection matrix:
+      0.00173667  0.00000000  0.00000000 -0.55573332
+      0.00000000  0.00173667  0.00000000 -0.41679999
+      0.00000000  0.00000000  0.00000000 -1.00000000
+      0.00000000  0.00000000 -0.00000289  0.00315323
+Depth-to-color pixel shift formula: Shift = 11.4115 - 13243.8/dist[mm]
+Or: Shift = -30.3492 + 0.0383333*depth
+Calculating best-fit color projection matrix for depth value range 399 - 975...
+Smallest eigenvalue of color system = 0.0074551
+Optimal homography from depth space to color image space:
+      0.93062715 -0.00406297  0.05831560 -0.00687790
+      0.00852312  0.92296414 -0.00021763 -0.01846964
+      0.00000000  0.00000000  1.00000000  0.00000000
+      0.00868441 -0.00266168 -0.00048805  1.00000000
+Color matrix approximation RMS = 0.105723
+Writing full intrinsic camera parameters to /usr/local/etc/Vrui-5.2/Kinect-3.9/IntrinsicParameters-A00366820987045A.dat
+
