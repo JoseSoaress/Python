@@ -1,0 +1,22 @@
+--Calibrate kinect camera
+https://www.youtube.com/watch?v=Qo05LVxdlfo
+https://www.youtube.com/watch?v=7TGF30-5KuQ
+
+--Papers
+https://www.mas.bg.ac.rs/_media/istrazivanje/fme/vol43/1/8_bkaran.pdf
+https://arsandbox.ucdavis.edu/forums/topic/raw-kinect-viewer-question/
+
+--Ubuntu Kinect install
+https://naman5.wordpress.com/2014/06/24/experimenting-with-kinect-using-opencv-python-and-open-kinect-libfreenect/
+https://github.com/amiller/libfreenect-goodies/blob/master/demo_freenect.py
+
+--lib
+freenect-glview
+
+
+---Python examples
+https://naman5.wordpress.com/2014/06/24/experimenting-with-kinect-using-opencv-python-and-open-kinect-libfreenect/
+
+Kinect exemples and tests in Pyhton
+https://jonnoftw.github.io/2017/01/27/libfreenect-python-depth-image
+https://github.com/OpenKinect/libfreenect/tree/master/wrappers/python

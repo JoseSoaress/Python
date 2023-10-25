@@ -1,0 +1,5 @@
+
+To run the script for the Kinect first we need to inicialize the kinect with  :: 
+
+
+*********************   freenect-glview   ****************************
