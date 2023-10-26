@@ -11,3 +11,10 @@ The main project was a  Simultaneos Localization and Mapping(SLAM) system that
 could compute the movement and produce a 3d vizualization of the space
 using a Kinect camera and different algoritms. This was done using 
 ROS, a kinect and octomap.
+
+Example of the Kinect in the Ros environment depth and RGB-image.
+![image info](/Work-Images/ROS-Kinect.png)
+![image info](/Work-Images/areaperdida.png)
+
+Example of a frame of the octoma in the ROS enviroment
+![image info](/Work-Images/guitarOcto.png)
