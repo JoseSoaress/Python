@@ -15,15 +15,15 @@ ROS, a kinect and octomap.
 On the left there is a clip of the SLAM system working in real time, the video
 is running 1.5 time the real speed. On the right an example of a finished map.
 <p float="left">
-  <img src="/Work-Images/SLAM-Speed-1'5x.gif" width="500" height="500"/>
-  <img src="/Work-Images/FinishMapExample.gif" width="500" height="500"/>
+  <img src="/Work-Images/SLAM-Speed-1'5x.gif" width="400" height="400"/>
+  <img src="/Work-Images/FinishMapExample.gif" width="400" height="400"/>
 </p>
 
 Example of the Kinect in the Ros environment depth and RGB-image.
-<img src="/Work-Images/ROS-Kinect.png" width="1000"/>
+<img src="/Work-Images/ROS-Kinect.png" width="800"/>
 
 Example of a frame of the octoma in the ROS enviroment
-<img src="/Work-Images/guitarOcto.png" width="1000"/>
+<img src="/Work-Images/guitarOcto.png" width="800"/>
 
 Example of a RGB frame and a Depth frame from kinect [notice the size diference]
-<img src="/Work-Images/areaperdida.png" width="1000"/>
+<img src="/Work-Images/areaperdida.png" width="800"/>
